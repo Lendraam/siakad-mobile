@@ -1,0 +1,32 @@
+[
+  {
+    "semester": "1",
+    "year": "2021",
+    "courses": [
+      { "name": "Pengantar Informatika", "grade": "A" },
+      { "name": "Matematika Dasar", "grade": "B+" },
+      { "name": "Bahasa Inggris", "grade": "A-" }
+    ],
+    "gpa": 3.6
+  },
+  {
+    "semester": "1",
+    "year": "2021",
+    "courses": [
+      { "name": "Pengantar Informatika", "grade": "B" },
+      { "name": "Matematika Dasar", "grade": "B" },
+      { "name": "Bahasa Inggris", "grade": "A" }
+    ],
+    "gpa": 3.2
+  },
+  {
+    "semester": "2",
+    "year": "2022",
+    "courses": [
+      { "name": "Pemrograman Dasar", "grade": "A-" },
+      { "name": "Matematika Diskrit", "grade": "B+" },
+      { "name": "Sistem Komputer", "grade": "B" }
+    ],
+    "gpa": 3.45
+  }
+]
